@@ -7,10 +7,10 @@ This repo contains notebooks for the co-seismic deformation of the 2024 Noto Pen
 
 + Xu, L., Ji, C., Meng, L., Ampuero, J.P., Yunjun, Z., Mohanna, S., Aoki, Y., Dual-Initiation Ruptures in the 2024 Noto Earthquake Encircling a Fault‬ Asperity at a Swarm Edge‬.
 
-### Data ([Zenodo](https://zenodo.org/records/12123427))
+### Data ([Zenodo](https://doi.org/10.5281/zenodo.11507546))
 
-The ALOS-2 SAR data used in the study is provided by JAXA ([link](https://www.eorc.jaxa.jp/ALOS/jp/dataset/open_and_free/palsar2_l11_l22_j.htm)). The derived displacement products are avaialble on Zenodo in the links below:
+The ALOS-2 SAR data used in the study is provided by JAXA ([link](https://www.eorc.jaxa.jp/ALOS/jp/dataset/open_and_free/palsar2_l11_l22_j.htm)). The derived displacement products are available on Zenodo at https://doi.org/10.5281/zenodo.11507546. It includes the following products:
 
-+ ALOS2_A121_20220926_20240101 (left-looking): speckle tracking range + azimuth
-+ ALOS2_A127_20231206_20240103 (right-looking): speckle tracking range + azimuth
-+ ALOS2_D026_20240606_20240102 (left-looking): speckle tracking range + azimuth
++ ALOS2_A121_20220926_20240101 (left-looking): speckle tracking (range + azimuth)
++ ALOS2_A127_20231206_20240103 (right-looking): speckle tracking (range + azimuth)
++ ALOS2_D026_20240606_20240102 (left-looking): speckle tracking (range + azimuth)
