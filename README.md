@@ -8,6 +8,8 @@ This repo contains notebooks for the co-seismic deformation of the 2024 Noto Pen
 
 + Xu, L., Ji, C., Meng, L., Ampuero, J.P., Yunjun, Z., Mohanna, S., Aoki, Y., Dual-initiation ruptures in the 2024 Noto earthquake encircling a fault‬ asperity at a swarm edge‬. _Science, 385_(6711), 871-876, doi:[10.1126/science.adp0493](https://doi.org/10.1126/science.adp0493).
 
+![fig](https://github.com/user-attachments/assets/cc1eda1a-f555-4bf7-940b-71751d269a15)
+
 ### Data ([Zenodo](https://doi.org/10.5281/zenodo.11507546))
 
 The ALOS-2 SAR data used in the study is provided by JAXA ([link](https://www.eorc.jaxa.jp/ALOS/jp/dataset/open_and_free/palsar2_l11_l22_j.htm)). The derived displacement products are available on Zenodo at https://doi.org/10.5281/zenodo.11507546. It includes the following products:
